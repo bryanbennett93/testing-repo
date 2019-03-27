@@ -1,2 +1,2 @@
-# testing-repo
+# Testing Repo
 My First Repository
